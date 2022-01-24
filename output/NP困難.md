@@ -1,0 +1,20 @@
+---
+title: NP困難
+---
+
+::: glossary
+NP困難 : A-Z
+:::
+
+-   説明を聞いた水野氏が「何を言ってるんですか？」と思わず言い返したコンピュータ科学の専門語
+-   後に水野氏はチョムスキーの著書で「NP困難」との再会を果たす。
+
+**関連リンク**
+
+-   [NP困難(Wikipedia)](https://ja.wikipedia.org/wiki/NP困難)
+
+**関連ラジオ**
+
+-   [春とバネ、なぜ両方springなのか-多義語パズルへの招待
+    #12](https://www.youtube.com/watch?v=xE91uqIpOMU)
+-   [【徹底討論】プログラミング言語は言語なの？【ゆるコンピュータ科学ラジオ4】#66](https://www.youtube.com/watch?v=ru1ZVmytMoo)
